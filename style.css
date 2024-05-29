@@ -16,10 +16,18 @@
 
 }
 
+#resultado{
+    background-color: antiquewhite ;
+}
+
 #elemento2{
     border: 1px black solid;
     width: 25%;
 
+}
+
+#resultadoSubtrair{
+    background-color: antiquewhite ;
 }
 
 #elemento3{
@@ -28,15 +36,60 @@
 
 }
 
+#resultadoMultiplicar{
+    background-color: antiquewhite;
+}
+
 #elemento4{
     border: 1px black solid;
     width: 25%;
 
 }
 
+#resultadoDividir{
+    background-color: antiquewhite;
+}
+
 #item2{
     border: 1px black solid;
     height: 20%;
+    display: flex;
+}
+
+#conversao1{
+    border: 1px black solid;
+    width: 25%;
+}
+
+#resultadoFareneith{
+    background-color: antiquewhite;
+}
+
+#conversao2{
+    border: 1px black solid;
+    width: 25%;
+}
+
+#resultadoCelsius{
+    background-color: antiquewhite;
+}
+
+#conversao3{
+    border: 1px black solid;
+    width: 25%;
+}
+
+#resultadoretangulo{
+    background-color: antiquewhite;
+}
+
+#conversao4{
+    border: 1px black solid;
+    width: 25%;
+}
+
+#resultadoRaio{
+    background-color: antiquewhite;
 }
 
 #item3{
